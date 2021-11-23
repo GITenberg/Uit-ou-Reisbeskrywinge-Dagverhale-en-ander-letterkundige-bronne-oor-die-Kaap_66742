@@ -1,5 +1,8 @@
 _repo: Uit-ou-Reisbeskrywinge-Dagverhale-en-ander-letterkundige-bronne-oor-die-Kaap_66742
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66742-h/images/frontcover.jpg
 creator:
   authors:
   - agent_name: Blommaert, W.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53939'
     url: http://www.gutenberg.org/2009/agents/53939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66742#Uit-ou-Reisbeskrywinge-Dagverhale-en-ander-letterkundige-bronne-oor-die-Kaap
 gutenberg_issued: '2021-11-15'
 identifiers:
   gutenberg: '66742'
